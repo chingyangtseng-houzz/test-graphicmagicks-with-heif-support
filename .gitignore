@@ -1,0 +1,17 @@
+# Ignore HEIC and JPG files
+*.heic
+*.jpg
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# MacOS files
+.DS_Store
+
+# .idea files
+.idea
